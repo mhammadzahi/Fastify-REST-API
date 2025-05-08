@@ -1,4 +1,4 @@
-# 🚀 Fastify Hello World
+# 🚀 Fastify REST API
 
 A minimal and blazing-fast **Fastify** server that returns a simple "Hello, world!" message. Great as a starting point for any Node.js backend project.
 
@@ -16,5 +16,5 @@ A minimal and blazing-fast **Fastify** server that returns a simple "Hello, worl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fastify-hello-world.git
+git clone https://github.com/mhammadzahi/Fastify-REST-API.git
 cd fastify-hello-world
